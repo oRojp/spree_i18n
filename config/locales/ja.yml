@@ -857,9 +857,15 @@ ja:
       create_adjustment:
         description: 注文に対して値引きする
         name: 値引き
+      create_item_adjustments:
+        description: 商品に対して値引きする
+        name: 商品割引
       create_line_items:
         description: 特定の種類の商品をカートに加える
         name: 商品追加
+      free_shipping:
+        description: 送料を無料にする
+        name: 送料無料
       give_store_credit:
         description: 指定された額のストアクレジットをユーザーに与える
         name: ストアクレジット付与
