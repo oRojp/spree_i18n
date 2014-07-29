@@ -945,14 +945,14 @@ ja:
         description: 注文に対して値引きする
         name: 値引き
       create_item_adjustments:
-        description: Creates a promotion credit adjustment on a line item
-        name: Create per-line-item adjustment
+        description: 商品に対して値引きする
+        name: 商品割引
       create_line_items:
         description: 特定の種類の商品をカートに加える
         name: 商品追加
       free_shipping:
-        description: Makes all shipments for the order free
-        name: Free shipping
+        description: 送料を無料にする
+        name: 送料無料
       give_store_credit:
         description: 指定された額のストアクレジットをユーザーに与える
         name: ストアクレジット付与
