@@ -220,8 +220,8 @@ ja:
         one: カテゴリ
         other: カテゴリ
       spree/taxonomy:
-        one: カテゴリツリー
-        other: カテゴリツリー
+        one: 商品カテゴリ
+        other: 商品カテゴリ
       spree/tracker: 
       spree/user:
         one: ユーザー
@@ -359,7 +359,7 @@ ja:
         properties: 商品の属性
         prototypes: プロトタイプ
         reports: レポート
-        taxonomies: カテゴリツリー
+        taxonomies: 商品カテゴリ
         taxons: カテゴリ
         users: ユーザー管理
       user:
@@ -641,7 +641,7 @@ ja:
     flexible_rate: 変動料金
     forgot_password: パスワードを忘れた方
     free_shipping: 配送料無料
-    free_shipping_amount: -
+    free_shipping_amount: '-'
     front_end: フロントエンド
     gateway: ゲートウェー
     gateway_config_unavailable: この環境ではゲートウェーを利用できません。
@@ -779,7 +779,7 @@ ja:
     new_tax_category: 新規税金カテゴリー
     new_tax_rate: 新規税率
     new_taxon: 新規カテゴリ
-    new_taxonomy: 新規カテゴリツリー
+    new_taxonomy: 新規商品カテゴリ
     new_tracker: 新規トラッカー
     new_user: 新規ユーザー
     new_variant: 新規種類
@@ -1159,8 +1159,8 @@ ja:
     taxon_edit: カテゴリを編集
     taxon_placeholder: カテゴリプレイスホルダ
     taxonomies: 商品カテゴリ
-    taxonomy: カテゴリツリー
-    taxonomy_edit: カテゴリツリーを編集する
+    taxonomy: 商品カテゴリ
+    taxonomy_edit: 商品カテゴリを編集する
     taxonomy_tree_error: 要求された変更は受け付けられず、ツリーは以前の状態に戻っています。再度お試しください。
     taxonomy_tree_instruction: ! '* 追加・削除・ソートなどのメニューを選択するには、ツリーのノードを右クリックしてください。'
     taxons: カテゴリ
