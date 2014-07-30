@@ -331,8 +331,8 @@ ja:
         properties: 商品の属性
         prototypes: プロトタイプ
         reports: レポート
-        taxonomies: カテゴリツリー
-        taxons: カテゴリ
+        taxonomies: 商品カテゴリ
+        taxons: 商品表示順
         users: ユーザー管理
       user:
         account: アカウント情報
@@ -1158,7 +1158,7 @@ ja:
     taxon: カテゴリ
     taxon_edit: カテゴリを編集
     taxon_placeholder: カテゴリプレイスホルダ
-    taxonomies: カテゴリツリー
+    taxonomies: 商品カテゴリ
     taxonomy: カテゴリツリー
     taxonomy_edit: カテゴリツリーを編集する
     taxonomy_tree_error: 要求された変更は受け付けられず、ツリーは以前の状態に戻っています。再度お試しください。
